@@ -1,0 +1,44 @@
+body {
+    background-color: #393E46;
+}
+
+/* Container Section */
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    text-shadow: #232931 5px 2px;
+}
+
+
+/* Players Section */
+.player {
+    display: inline-block;
+    padding: 0 3% 5% 3%;
+}
+
+.player-name {
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+/* Dice Section */
+.dice {
+    width: 70%;
+}
+
+
+/* Footer Section */
+footer {
+    color: white;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    margin-top: 3%;
+}
