@@ -1,0 +1,23 @@
+body {
+    background-color: lightcyan;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: lightsteelblue;
+    width: 5%;
+}
+
+h1 {
+    color: deepskyblue;
+}
+
+h2 {
+    color: deepskyblue;
+}
+
+h3 {
+    color: deepskyblue;
+}
